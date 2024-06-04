@@ -1,0 +1,15 @@
+15 20 10
+Lis 5 9 4 9 3 10
+Wilk 8 3 9 3 9 10
+Czlowiek 2 12 2 11 5 10 2
+Antylopa 13 17 12 18 4 10
+Owca 8 0 9 0 4 10
+Owca 3 10 2 10 4 10
+BarszczSosnowskiego 12 0 12 0 10 0
+Guarana 3 2 3 2 0 0
+Mlecz 4 4 4 4 0 0
+Trawa 13 8 13 8 0 0
+WilczeJagody 7 5 7 5 99 0
+Mlecz 3 4 4 4 0 0
+Trawa 13 9 13 8 0 0
+WilczeJagody 7 4 7 5 99 0
